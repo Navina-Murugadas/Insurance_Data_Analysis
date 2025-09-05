@@ -61,6 +61,9 @@ The focus is on understanding the imbalance between premiums collected and claim
 
 ![Insurance Data Analysis_page-0002](https://github.com/user-attachments/assets/532f04cd-0c85-48d6-af84-b3fcdf951bde)
 
+### 🔍 Tooltip
+![Insurance Data Analysis_page-0003](https://github.com/user-attachments/assets/41cb6c8c-9b97-4e6f-bbdc-fa82cb459af8)
+
 ---
 
 ## 👩‍💻 Author  
