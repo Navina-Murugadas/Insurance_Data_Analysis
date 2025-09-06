@@ -1,3 +1,5 @@
+# 📊 Insurance Data Analysis (Power BI Dashboard)
+
 ## 📌 Project Overview  
 An **interactive Power BI report** analyzing the **financial and operational performance** of a motor insurer (*EIC*) from **2014–2018**.  
 The focus is on understanding the imbalance between premiums collected and claims paid, policyholder demographics, and risk-heavy vehicle categories.  
